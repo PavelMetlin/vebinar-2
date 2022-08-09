@@ -1,4 +1,5 @@
-﻿Console.Write("Введите цифру, обозначающую день недели: ");
+﻿// задача 3
+Console.Write("Введите цифру, обозначающую день недели: ");
 int dayNum = Convert.ToInt32(Console.ReadLine());
 
 void CheckingTheDayOfTheWeek(int dayNum)
